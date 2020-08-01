@@ -1,18 +1,20 @@
 # TELOSCOIN paper wallet
 CLI tool for making nice looking printable TELOS paper wallets to hold your Teloscoins.
 
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Pillow?style=plastic) ![GitHub All Releases](https://img.shields.io/github/downloads/luxleather/teloscoin-paper-wallet/total?style=plastic) ![GitHub](https://img.shields.io/github/license/luxleather/teloscoin-paper-wallet?style=plastic)
+
 
 Table of contents:
-* About this wallet
-    * How private keys are generated
-    * How public address are generated
-* Installation
-    * Windows
-    * Linux
-* Usage
-* How to print and fold
-* QA
-* Disclaimer
+* [About this wallet](/teloscoin-paper-wallet#about-this-wallet)
+    * [How private keys are generated](/teloscoin-paper-wallet#how-private-keys-are-generated)
+    * [How public address are generated](/teloscoin-paper-wallet#how-public-address-are-generated)
+* [Installation](/teloscoin-paper-wallet#installation)
+    * [Windows](/teloscoin-paper-wallet#windows-users)
+    * [Linux](/teloscoin-paper-wallet#linux-users)
+* [Usage](/teloscoin-paper-wallet#usage)
+* [How to print and fold](/teloscoin-paper-wallet#how-to-print-and-fold)
+* [QA](/teloscoin-paper-wallet#qa)
+* [Disclaimer](/teloscoin-paper-wallet#disclaimer)
 ___
 ## About this wallet
 

@@ -1,7 +1,7 @@
 # TELOSCOIN paper wallet
 CLI tool for making nice looking printable TELOS paper wallets to hold your Teloscoins.
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Pillow?style=plastic) ![GitHub](https://img.shields.io/github/license/luxleather/teloscoin-paper-wallet?style=plastic)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Pillow?style=plastic) ![GitHub repo size](https://img.shields.io/github/repo-size/luxleather/teloscoin-paper-wallet?style=plastic) ![GitHub](https://img.shields.io/github/license/luxleather/teloscoin-paper-wallet?style=plastic)
 
 ![Showcase](https://github.com/luxleather/teloscoin-paper-wallet/blob/master/img/showcase.png)
 
@@ -72,15 +72,15 @@ Make new folder on C:\Python3x and install Python in it (not mandatory).
 
 Download Teloscoin paper wallet files from this repo and unpack it on the Desktop.
 
-Run cmd.exe and enter into directory `C:\>cd Users\<username>\Desktop\teloscoin-paper-wallet`
+Run cmd.exe and enter into directory `C:\>cd Users\<username>\Desktop\teloscoin-paper-wallet-master`
 
 Install required modules:
 
-`C:\Users\<username>\Desktop\teloscoin-paper-wallet>py -m pip install -r requirements.txt`
+`C:\Users\<username>\Desktop\teloscoin-paper-wallet-master>py -m pip install -r requirements.txt`
 
 Run file and create paper wallet:
 
-`C:\Users\<username>\Desktop\teloscoin-paper-wallet>wallet.py`
+`C:\Users\<username>\Desktop\teloscoin-paper-wallet-master>wallet.py`
 
 ### Linux users
 
@@ -88,7 +88,7 @@ Install any Python3.x version.
 
 Download Teloscoin paper wallet files from this repo and unpack it on the Desktop.
 
-Run Terminal and type: `cd /home/<username>/Desktop/teloscoin-paper-wallet`
+Run Terminal and type: `cd /home/<username>/Desktop/teloscoin-paper-wallet-master`
 
 Install pip:
 
@@ -100,7 +100,7 @@ Install required modules:
 
 Run file and create paper wallet:
 
-`python3 wallet.py` (you must be in telos-paper-wallet folder)
+`python3 wallet.py` (you must be in telos-paper-wallet-master folder)
 
 ## Usage
 
